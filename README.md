@@ -1,2 +1,1 @@
-# ga8-chatgpt-test
-Q7: ChatGPT Visualization
+# ChatGPT Visualization\n\nSubmitted by: test@example.com\n\nUse Manual Mode to download the HTML file.
